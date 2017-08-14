@@ -41,7 +41,7 @@ if base > 1000:
 print("Salário: R$%6.2f Imposto a pagar: R$%6.2f" % (salário,imposto))
 
 ########################################
-#        Exemplo III > IV (else)       #
+#        Exemplo II > IV (else)        #
 ########################################
 
 if idade <= 3:
